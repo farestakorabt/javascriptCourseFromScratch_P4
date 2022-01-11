@@ -1,0 +1,42 @@
+{
+  "posts": [
+    {
+      "pseudo": "Fares",
+      "message": "Salut à tous !",
+      "mode": "cors",
+      "Credential": "same-origin",
+      "id": 1
+    },
+    {
+      "pseudo": "Darius3",
+      "message": "Hello le monde",
+      "mode": "cors",
+      "Credential": "same-origin",
+      "id": 2
+    },
+    {
+      "pseudo": "Darius3",
+      "message": "Hello le monde",
+      "age": 55,
+      "mode": "cors",
+      "Credential": "same-origin",
+      "id": 3
+    },
+    {
+      "pseudo": "Darius3",
+      "message": "Hello le monde",
+      "age": 55,
+      "mode": "cors",
+      "Credential": "same-origin",
+      "id": 4
+    },
+    {
+      "pseudo": "Darius3",
+      "message": "Hello le monde",
+      "age": 55,
+      "mode": "cors",
+      "Credential": "same-origin",
+      "id": 5
+    }
+  ]
+}
